@@ -1,0 +1,276 @@
+# Complete SQL Dashboard Questions for Sales Analytics
+
+## 1. Executive Summary Dashboard
+
+### Revenue & Performance Metrics
+- What is the total revenue for the current month/quarter/year?
+- What is the total number of orders placed?
+- What is the average order value?
+- What is the total profit and profit margin?
+- What is the month-over-month revenue growth rate?
+- What is the year-over-year revenue growth rate?
+- What is the total number of active customers?
+- What is the customer acquisition rate?
+- What is the order fulfillment rate (delivered vs total orders)?
+- What is the total discount amount given?
+
+### Key Performance Indicators (KPIs)
+- What is the revenue per customer?
+- What is the average days between order and delivery?
+- What is the order cancellation rate?
+- What is the return customer rate?
+- What is the customer lifetime value (CLV)?
+
+## 2. Sales Performance Dashboard
+
+### Sales Team Analytics
+- Which sales representative has the highest total sales?
+- What is each sales rep's commission earned?
+- What is the average deal size per sales representative?
+- How many orders has each sales rep handled?
+- Which territory generates the most revenue?
+- What is the sales performance by territory?
+- What is the conversion rate by sales representative?
+- Which sales rep has the most repeat customers?
+- What is the sales rep efficiency (revenue per order)?
+- What is the sales team's quota attainment?
+
+### Sales Trends
+- What are the daily sales trends?
+- What are the weekly sales patterns?
+- What are the monthly sales trends?
+- What are the seasonal sales patterns?
+- What are the quarterly performance comparisons?
+- What are the peak sales hours/days?
+- What is the sales velocity (time from lead to close)?
+
+## 3. Customer Analytics Dashboard
+
+### Customer Segmentation
+- How many customers are in each segment (Premium, Standard, Basic)?
+- What is the revenue contribution by customer segment?
+- What is the average order value by customer segment?
+- Which customer segment has the highest lifetime value?
+- What is the customer distribution by geographic location?
+- What is the customer acquisition by month?
+- What is the customer retention rate by segment?
+
+### Customer Behavior
+- Who are the top 10 customers by total purchase amount?
+- Which customers have the highest frequency of orders?
+- What is the average time between customer orders?
+- Which customers haven't ordered in the last 30/60/90 days?
+- What is the customer churn rate?
+- What is the repeat purchase rate?
+- Which customers have increasing/decreasing order values?
+- What is the customer acquisition cost?
+
+### Geographic Analysis
+- What is the sales distribution by state/country?
+- Which geographic regions have the highest revenue?
+- What is the customer density by location?
+- Which locations have the highest average order values?
+- What is the shipping cost analysis by region?
+
+## 4. Product Analytics Dashboard
+
+### Product Performance
+- Which products are the best sellers by quantity?
+- Which products generate the most revenue?
+- What is the profit margin by product?
+- Which products have the highest/lowest profitability?
+- What is the product performance by category?
+- Which products are underperforming?
+- What is the product mix analysis?
+- Which products have seasonal demand patterns?
+
+### Inventory Management
+- What is the current stock level for each product?
+- Which products are low in stock?
+- Which products are overstocked?
+- What is the inventory turnover ratio by product?
+- Which products haven't been sold recently?
+- What is the dead stock analysis?
+- What is the inventory value by category?
+- What is the stock-out frequency?
+
+### Category Analysis
+- Which product categories perform best?
+- What is the revenue contribution by category?
+- What is the profit margin by category?
+- Which categories have the highest growth rate?
+- What is the category market share?
+- Which categories need inventory replenishment?
+
+## 5. Financial Dashboard
+
+### Revenue Analysis
+- What is the monthly recurring revenue (MRR)?
+- What is the revenue breakdown by product/category?
+- What is the revenue per square foot (if applicable)?
+- What is the gross margin analysis?
+- What is the net profit analysis?
+- What is the revenue recognition status?
+
+### Cost Analysis
+- What is the cost of goods sold (COGS)?
+- What is the total shipping cost?
+- What is the discount impact on revenue?
+- What is the return/refund amount?
+- What is the cost per acquisition?
+- What is the operational cost breakdown?
+
+### Profitability
+- Which orders/customers are most profitable?
+- What is the profit trend over time?
+- What is the contribution margin by product?
+- What is the break-even analysis?
+- What is the ROI by product/campaign?
+
+## 6. Operational Dashboard
+
+### Order Management
+- How many orders are in each status (Pending, Processing, Shipped, Delivered, Cancelled)?
+- What is the average order processing time?
+- What is the order fulfillment rate?
+- Which orders are delayed?
+- What is the order accuracy rate?
+- What is the order cancellation analysis?
+
+### Shipping & Logistics
+- What is the average shipping time?
+- What is the shipping cost analysis?
+- Which shipping methods are most used?
+- What is the on-time delivery rate?
+- Which regions have shipping delays?
+- What is the shipping cost per order?
+
+### Quality Metrics
+- What is the order error rate?
+- What is the customer satisfaction score?
+- What is the return rate by product?
+- What is the complaint analysis?
+- What is the quality score by supplier?
+
+## 7. Marketing & Promotion Dashboard
+
+### Campaign Performance
+- What is the impact of discounts on sales volume?
+- Which products benefit most from promotions?
+- What is the discount utilization rate?
+- What is the promotional ROI?
+- Which customer segments respond best to promotions?
+
+### Customer Acquisition
+- What are the customer acquisition channels?
+- What is the conversion rate by channel?
+- What is the cost per acquisition by channel?
+- What is the customer lifetime value by acquisition source?
+
+## 8. Forecasting & Predictive Dashboard
+
+### Sales Forecasting
+- What is the projected revenue for next month/quarter?
+- What is the sales trend forecast?
+- Which products will likely need restocking?
+- What is the expected customer churn?
+- What is the seasonal demand forecast?
+
+### Predictive Analytics
+- Which customers are likely to churn?
+- Which products will be bestsellers next season?
+- What is the predicted inventory requirement?
+- Which customers are likely to upgrade segments?
+- What is the forecasted cash flow?
+
+## 9. Comparative Analysis Dashboard
+
+### Performance Comparisons
+- Current period vs previous period comparison
+- Year-over-year comparison
+- Product performance comparison
+- Sales rep performance comparison
+- Territory performance comparison
+- Customer segment comparison
+- Category performance comparison
+
+### Benchmarking
+- Performance against targets/quotas
+- Industry benchmark comparison
+- Competitor analysis (if data available)
+- Best vs worst performer analysis
+
+## 10. Advanced Analytics Dashboard
+
+### Cohort Analysis
+- Customer retention by registration month
+- Revenue cohort analysis
+- Product adoption cohorts
+- Customer lifecycle analysis
+
+### Advanced Segmentation
+- RFM analysis (Recency, Frequency, Monetary)
+- Customer scoring models
+- Product affinity analysis
+- Cross-selling opportunities
+- Upselling opportunities
+
+### Statistical Analysis
+- Correlation analysis between variables
+- Regression analysis for sales prediction
+- A/B testing results
+- Statistical significance testing
+- Confidence intervals for forecasts
+
+## 11. Real-time Monitoring Dashboard
+
+### Live Metrics
+- Real-time sales counter
+- Live order status updates
+- Current inventory levels
+- Active customer sessions
+- Real-time revenue tracking
+
+### Alerts & Notifications
+- Low stock alerts
+- High-value order notifications
+- Unusual sales pattern alerts
+- Customer churn risk alerts
+- Performance threshold alerts
+
+## 12. Custom Analysis Dashboard
+
+### Ad-hoc Queries
+- Custom date range analysis
+- Specific product/customer deep dives
+- What-if scenario analysis
+- Custom segment analysis
+- Specific business question investigations
+
+### Drill-down Capabilities
+- Revenue drill-down (total → category → product)
+- Customer drill-down (segment → individual → orders)
+- Geographic drill-down (country → state → city)
+- Time-based drill-down (year → quarter → month → day)
+
+## Implementation Priority
+
+### Phase 1 (Essential)
+- Revenue metrics
+- Top customers and products
+- Basic sales trends
+- Order status overview
+
+### Phase 2 (Important)
+- Customer segmentation analysis
+- Sales rep performance
+- Geographic analysis
+- Inventory status
+
+### Phase 3 (Advanced)
+- Predictive analytics
+- Cohort analysis
+- Advanced profitability analysis
+- Real-time monitoring
+
+Each of these dashboard questions can be implemented using the provided database schema and would provide valuable business insights for decision-making.
