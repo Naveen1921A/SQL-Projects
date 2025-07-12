@@ -468,3 +468,4 @@ ADVANCED CHALLENGES:
 4. Implement ABC analysis for inventory management
 5. Create a query to detect potential fraudulent orders
 */
+
